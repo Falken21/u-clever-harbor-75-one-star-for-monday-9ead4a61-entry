@@ -8,9 +8,9 @@ The line:
 
 > Booked a table for two at 7 a.m.; they seated my inbox instead, served the coffee cold, and Friday wasn't on the menu yet.
 
-![Competition](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61.svg)
-![Rank](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/Falken21/u-clever-harbor-75-one-star-for-monday-9ead4a61-entry/rank.svg)
-![Reward](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/Falken21/u-clever-harbor-75-one-star-for-monday-9ead4a61-entry/reward.svg)
+[![make.fun · u-clever-harbor-75-one-star-for-monday-9ead4a61](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-one-star-for-monday-9ead4a61)
+[![rank](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/Falken21/u-clever-harbor-75-one-star-for-monday-9ead4a61-entry/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-one-star-for-monday-9ead4a61)
+[![reward](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/Falken21/u-clever-harbor-75-one-star-for-monday-9ead4a61-entry/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-one-star-for-monday-9ead4a61)
 
 ## How it works
 
